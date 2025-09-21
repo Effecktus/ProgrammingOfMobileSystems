@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Ilin Aydar</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone">+7 (000) 000 84 26</string>
+    <string name="tg"> \@Effecktus </string>
+    <string name="email">effecktus@gmail.com</string>
+</resources>
