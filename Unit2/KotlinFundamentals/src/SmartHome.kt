@@ -188,11 +188,11 @@ class SmartHome(
     fun turnOffAllDevices() {
         if (smartTvDevice.deviceStatus == "on") {
             deviceTurnOnCount--
-            smartTvDevice.turnOff()
+            turnOffTv()
         }
         if (smartLightDevice.deviceStatus == "on") {
             deviceTurnOnCount--
-            smartLightDevice.turnOff()
+            turnOffLight()
         }
     }
 }
