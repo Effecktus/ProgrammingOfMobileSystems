@@ -1,6 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App30Days</string>
+    <string name="app_name">30 Цветов</string>
+    <string name="app_title">Язык цветов</string>
+
+    <!-- Day 1 - Азалия -->
     <string name="flower_1_name">Азалия</string>
     <string name="flower_1_meaning">Женственность и хрупкость</string>
+
+    <!-- Day 2 - Акация -->
+    <string name="flower_2_name">Акация</string>
+    <string name="flower_2_meaning">Тайная любовь</string>
+
+    <!-- Day 3 - Аконит -->
+    <string name="flower_3_name">Аконит</string>
+    <string name="flower_3_meaning">Симпатия</string>
+
+    <!-- Day 4 - Альстромерия -->
+    <string name="flower_4_name">Альстромерия</string>
+    <string name="flower_4_meaning">Милый и прелестный</string>
+
+    <!-- Day 5 - Амарилис -->
+    <string name="flower_5_name">Амарилис</string>
+    <string name="flower_5_meaning">Гордость и неприступность</string>
+
+    <!-- Day 6 - Анемон -->
+    <string name="flower_6_name">Анемон</string>
+    <string name="flower_6_meaning">Искренность и надежда</string>
+
+    <!-- Day 7 - Антуриум -->
+    <string name="flower_7_name">Антуриум</string>
+    <string name="flower_7_meaning">Храбрость и страсть</string>
+
+    <!-- Day 8 - Астра -->
+    <string name="flower_8_name">Астра</string>
+    <string name="flower_8_meaning">Любовь и изящество</string>
+
+    <!-- Day 9 - Василек -->
+    <string name="flower_9_name">Василек</string>
+    <string name="flower_9_meaning">Деликатность и верность</string>
+
+    <!-- Day 10 - Водяная лилия -->
+    <string name="flower_10_name">Водяная лилия</string>
+    <string name="flower_10_meaning">Искренность и убедительность</string>
+
+    <!-- Day 11 - Вьюнок -->
+    <string name="flower_11_name">Вьюнок</string>
+    <string name="flower_11_meaning">Украшение и очарование</string>
+
+    <!-- Day 12 - Гардения -->
+    <string name="flower_12_name">Гардения</string>
+    <string name="flower_12_meaning">Тайная любовь</string>
+
+    <!-- Day 13 - Гвоздика -->
+    <string name="flower_13_name">Гвоздика</string>
+    <string name="flower_13_meaning">Очарование и честь</string>
+
+    <!-- Day 14 - Георгин -->
+    <string name="flower_14_name">Георгин</string>
+    <string name="flower_14_meaning">Каприз и непостоянство</string>
+
+    <!-- Day 15 - Гербера -->
+    <string name="flower_15_name">Гербера</string>
+    <string name="flower_15_meaning">Тайна и улыбка</string>
+
+    <!-- Day 16 - Гиацинт -->
+    <string name="flower_16_name">Гиацинт</string>
+    <string name="flower_16_meaning">Игра и мудрость</string>
+
+    <!-- Day 17 - Гладиолус -->
+    <string name="flower_17_name">Гладиолус</string>
+    <string name="flower_17_meaning">Искренность и сила</string>
+
+    <!-- Day 18 - Глициния -->
+    <string name="flower_18_name">Глициния</string>
+    <string name="flower_18_meaning">Добро пожаловать</string>
+
+    <!-- Day 19 - Гортензия -->
+    <string name="flower_19_name">Гортензия</string>
+    <string name="flower_19_meaning">Скромность и искренность</string>
+
+    <!-- Day 20 - Жасмин -->
+    <string name="flower_20_name">Жасмин</string>
+    <string name="flower_20_meaning">Чувственность и элегантность</string>
+
+    <!-- Day 21 - Жимолость -->
+    <string name="flower_21_name">Жимолость</string>
+    <string name="flower_21_meaning">Великодушие и щедрость</string>
+
+    <!-- Day 22 - Золотарник -->
+    <string name="flower_22_name">Золотарник</string>
+    <string name="flower_22_meaning">Успех и удача</string>
+
+    <!-- Day 23 - Ирис -->
+    <string name="flower_23_name">Ирис</string>
+    <string name="flower_23_meaning">Мудрость и вера</string>
+
+    <!-- Day 24 - Калла -->
+    <string name="flower_24_name">Калла</string>
+    <string name="flower_24_meaning">Преклонение и восхищение</string>
+
+    <!-- Day 25 - Камелия -->
+    <string name="flower_25_name">Камелия</string>
+    <string name="flower_25_meaning">Восхищение и совершенство</string>
+
+    <!-- Day 26 - Лаванда -->
+    <string name="flower_26_name">Лаванда</string>
+    <string name="flower_26_meaning">Восхищение и одиночество</string>
+
+    <!-- Day 27 - Лилия -->
+    <string name="flower_27_name">Лилия</string>
+    <string name="flower_27_meaning">Чистота и величественность</string>
+
+    <!-- Day 28 - Нарцисс -->
+    <string name="flower_28_name">Нарцисс</string>
+    <string name="flower_28_meaning">Сильные чувства и рыцарство</string>
+
+    <!-- Day 29 - Незабудка -->
+    <string name="flower_29_name">Незабудка</string>
+    <string name="flower_29_meaning">Верность и искренность</string>
+
+    <!-- Day 30 - Орхидея -->
+    <string name="flower_30_name">Орхидея</string>
+    <string name="flower_30_meaning">Любовь и нежность</string>
 </resources>
