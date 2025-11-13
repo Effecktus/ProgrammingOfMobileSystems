@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">App30Days</string>
+    <string name="flower_1_name">Азалия</string>
+    <string name="flower_1_meaning">Женственность и хрупкость</string>
 </resources>
